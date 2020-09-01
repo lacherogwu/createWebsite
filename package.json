@@ -1,0 +1,16 @@
+{
+  "name": "create-educ-site",
+  "version": "1.0.0",
+  "description": "* Create Educ Sites Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "generate-password": "^1.5.1"
+  }
+}
